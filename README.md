@@ -1,0 +1,1 @@
+# AI-Fitness-Trainer-Using-MediaPipe-Squats-Analysis
